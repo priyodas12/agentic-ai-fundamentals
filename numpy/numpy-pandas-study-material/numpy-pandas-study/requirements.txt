@@ -1,0 +1,9 @@
+# Core - required
+numpy>=2.0
+pandas>=2.2
+jupyterlab
+
+# Optional - each notebook says where these help
+pyarrow      # Parquet support, faster string columns
+numexpr      # makes df.eval / df.query faster
+matplotlib   # df.plot()

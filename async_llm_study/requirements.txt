@@ -1,0 +1,7 @@
+# Parts 1-6 and the exercises need only the Python 3.11+ standard library.
+# Part 6b - SSE server (07_sse_server.py)
+fastapi
+uvicorn
+# Part 7 - real SDKs (install the one you use)
+anthropic
+openai
